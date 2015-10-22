@@ -4,6 +4,11 @@ body {
 #Header {
   text-align:center;
 }
-.inline {
-  display:inline; 
+#ExperienceT {
+  text-align:left;
+  width: 200px 
+}
+#ExperienceC {
+  float: right
+  width: 600px
 }
