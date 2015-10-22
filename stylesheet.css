@@ -4,3 +4,6 @@ body {
 #Header {
   text-align:center;
 }
+.inline {
+  display:inline; 
+}
