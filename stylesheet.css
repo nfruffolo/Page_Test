@@ -12,13 +12,30 @@ body {
   float: right
   width: 600px
 }
+main {
+  width: 980px;
+  height: 570px;
+  margin-left: auto;
+  margin-right: auto;
+}
+header {
+  color: gray;
+  text-align: center;
+  padding: 0 20 0 20;
+  border: 2px black dashed;
+  margin: 10px;
+}
 nav {
-  position:relative;
+  position: relative;
 }
 nav li {
-  display:inline;
+  display: inline;
+}
+section {
+  margin: 10px;
+  border: 2px black dashed;
 }
 #photo {
-  position:fixed;
+  position: fixed;
   opacity: .4;
 }
