@@ -12,3 +12,9 @@ body {
   float: right
   width: 600px
 }
+nav {
+  position:relative;
+}
+nav li {
+  display:inline;
+}
