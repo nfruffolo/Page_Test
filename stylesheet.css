@@ -1,3 +1,15 @@
+a:link   {
+  text-decoration: none;
+  color: black;
+}
+a:hover  {
+  text-decoration: underline;
+  color: white;
+}
+a:visited   {
+  text-decoration: none;
+  color: white;
+}
 body {
   background-color:#87CEEB;
 }
@@ -9,8 +21,8 @@ body {
   width: 200px 
 }
 #ExperienceC {
-  float: right
-  width: 600px
+  float: right;
+  width: 600px;
 }
 main {
   width: 100%;
@@ -31,8 +43,9 @@ nav {
 nav li {
   display: inline;
   border: 1px black solid;
-  border-radius: 10%;
-  padding: 5px;
+  border-radius: 15%;
+  padding: 4px;
+  background-color: #028BCC;
 }
 section {
   margin: 10px;
