@@ -4,11 +4,11 @@ a:link   {
 }
 a:hover  {
   text-decoration: underline;
-  color: white;
+  color: purple;
 }
 a:visited   {
   text-decoration: none;
-  color: white;
+  color: purple;
 }
 body {
   background-color:#87CEEB;
