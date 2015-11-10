@@ -21,12 +21,10 @@ body {
   width: 200px 
 }
 .left {
-  position: absolute;
-  left: 0px;
+  text-align: left;
 }
 .right {
-  position: absolute;
-  right: 0px;
+  text-align: right;
 }
 main {
   width: 100%;
