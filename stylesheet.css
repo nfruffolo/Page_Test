@@ -21,10 +21,12 @@ body {
   width: 200px 
 }
 .left {
-  float: left;
+  position: absolute;
+  left: 0px;
 }
 .right {
-  float: right;
+  position: absolute;
+  right: 0px;
 }
 main {
   width: 100%;
