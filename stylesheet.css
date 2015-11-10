@@ -37,6 +37,7 @@ header {
 }
 .left {
   float: left;
+  padding-left: 75px;
 }
 nav {
   position: relative;
@@ -54,6 +55,7 @@ nav li {
 }
 .right {
   float: right;
+  padding-right: 75px;
 }
 section {
   margin: 10px;
