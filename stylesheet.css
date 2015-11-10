@@ -37,7 +37,7 @@ header {
 }
 .left {
   float: left;
-  padding-left: 75px;
+  padding-left: ;
 }
 nav {
   position: relative;
@@ -50,15 +50,15 @@ nav li {
   background-color: #028BCC;
 }
 #projects {
-  padding: 20 20 20 20;
+  padding: 0 20 0 20;
   display: inline;
 }
 .right {
   float: right;
-  padding-right: 75px;
+  padding-right:;
 }
 section {
-  margin: 10px;
+  margin: 75px;
   border: 2px black dashed;
 }
 #photo {
