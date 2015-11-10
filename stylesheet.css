@@ -47,7 +47,7 @@ nav li {
 }
 #projects {
   padding: 20 20 20 20;
-  display: inline-block;
+  display: inline;
 }
 section {
   margin: 10px;
