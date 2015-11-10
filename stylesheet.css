@@ -45,6 +45,10 @@ nav li {
   padding: 4px;
   background-color: #028BCC;
 }
+#projects {
+  padding: 0 20 0 20;
+  display: inline;
+}
 section {
   margin: 10px;
   border: 2px black dashed;
