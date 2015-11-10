@@ -35,6 +35,9 @@ header {
   border: 2px black dashed;
   margin: 10px;
 }
+.left {
+  float: left;
+}
 nav {
   position: relative;
 }
@@ -48,6 +51,9 @@ nav li {
 #projects {
   padding: 20 20 20 20;
   display: inline;
+}
+.right {
+  float: right;
 }
 section {
   margin: 10px;
