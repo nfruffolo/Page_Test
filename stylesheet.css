@@ -40,11 +40,17 @@ header {
   border: 2px black dashed;
   margin: 10px;
 }
-h2 {
+#den {
   margin: 10px;
   border: 2px black dashed;
   padding: 5px;
-  width: 100px;
+  width: 250px
+}
+#course {
+  margin: 10px;
+  border: 2px black dashed;
+  padding: 5px;
+  width: 250px
 }
 .left {
   float: left;
