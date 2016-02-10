@@ -41,7 +41,7 @@ header {
   margin: 10px;
 }
 #den {
-  margin: 10px;
+  margin: auto;
   border: 2px black dashed;
   padding: 5px;
   width: 250px
