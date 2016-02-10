@@ -43,6 +43,7 @@ header {
 h2 {
   margin: 10px;
   border: 2px black dashed;
+  padding: 5px;
 }
 .left {
   float: left;
