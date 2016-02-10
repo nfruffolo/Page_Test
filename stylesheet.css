@@ -41,7 +41,7 @@ header {
 }
 nav {
   position: relative;
-  left: 300px;
+  left: 400px;
 }
 nav li {
   display: inline;
@@ -49,6 +49,7 @@ nav li {
   border-radius: 15%;
   padding: 4px;
   background-color: #028BCC;
+  text-size: 200%;
 }
 #projects {
   padding: 0 20 0 20;
