@@ -13,6 +13,10 @@ a:visited   {
 body {
   background-color:#87CEEB;
 }
+den {
+  Clear: both;
+  float:left;
+}
 #Header {
   text-align:center;
 }
