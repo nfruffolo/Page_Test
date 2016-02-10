@@ -14,8 +14,8 @@ body {
   background-color:#87CEEB;
 }
 #den {
-  Clear: both;
-  float:left;
+  clear: both;
+  text-align:left;
 }
 #Header {
   text-align:center;
