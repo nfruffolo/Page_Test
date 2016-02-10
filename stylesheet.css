@@ -41,6 +41,7 @@ header {
 }
 nav {
   position: relative;
+  left: 300px;
 }
 nav li {
   display: inline;
