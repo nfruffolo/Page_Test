@@ -16,6 +16,7 @@ body {
 #otherp {
   clear: both;
   text-align:center;
+  border:none;
 }
 #Header {
   text-align:center;
@@ -38,6 +39,10 @@ header {
   padding: 0 20 0 20;
   border: 2px black dashed;
   margin: 10px;
+}
+h2 {
+  margin: 10px;
+  border: 2px black dashed;
 }
 .left {
   float: left;
