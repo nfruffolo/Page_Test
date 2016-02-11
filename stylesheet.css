@@ -62,7 +62,7 @@ nav {
   border: 1px black solid;
 }
 nav li {
-  display: inline;
+  display: inline-block;
   border: 2px black solid;
   border-radius: 15%;
   padding: 4px;
