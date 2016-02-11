@@ -70,6 +70,7 @@ nav li {
 #navbar {
   margin: auto;
   width: 50%;
+  z-index: 4;
 }
 #projects {
   padding: 0 20 0 20;
