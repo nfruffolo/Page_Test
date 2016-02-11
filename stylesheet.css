@@ -59,6 +59,7 @@ header {
 nav {
   margin: auto;
   width: 50%;
+  border: 1px black solid;
 }
 nav li {
   display: inline;
