@@ -68,6 +68,10 @@ nav li {
   background-color: #028BCC;
   padding: 5px;
 }
+#navbar {
+  margin: auto;
+  width: 50%;
+}
 #projects {
   padding: 0 20 0 20;
   display: inline;
