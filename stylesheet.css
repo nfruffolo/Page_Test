@@ -65,10 +65,9 @@ nav li {
   display: inline;
   border: 1px black solid;
   border-radius: 15%;
-  padding: 4px;
+  padding: 3px;
   background-color: #028BCC;
   margin: auto;
-  width: 50%;
 }
 #projects {
   padding: 0 20 0 20;
