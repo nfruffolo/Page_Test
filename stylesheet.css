@@ -67,6 +67,7 @@ nav li {
   padding: 4px;
   background-color: #028BCC;
   margin: auto;
+  width: 50%;
 }
 #projects {
   padding: 0 20 0 20;
