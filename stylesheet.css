@@ -62,13 +62,13 @@ nav {
   border: 1px black solid;
 }
 nav li {
-  display: inline-block;
+  display: inline;
   border: 2px black solid;
   border-radius: 15%;
   padding: 4px;
   background-color: #028BCC;
   margin: auto;
-  width: 80%;
+  width: 20%;
 }
 #projects {
   padding: 0 20 0 20;
