@@ -66,6 +66,7 @@ nav li {
   border-radius: 15%;
   padding: 4px;
   background-color: #028BCC;
+  margin: auto;
 }
 #projects {
   padding: 0 20 0 20;
