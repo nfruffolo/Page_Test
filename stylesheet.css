@@ -65,6 +65,7 @@ header {
 nav {
   margin: auto;
   width: 50%;
+  padding-right: 75px;
 }
 nav li {
   display: inline;
