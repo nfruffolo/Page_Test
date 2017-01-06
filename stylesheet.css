@@ -52,6 +52,12 @@ header {
   padding: 5px;
   width: 200px
 }
+#colts.com {
+  margin: auto;
+  border: 2px black dashed;
+  padding: 5px;
+  width: 200px
+}
 .left {
   float: left;
   padding-left: 75px;
