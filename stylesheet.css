@@ -12,7 +12,8 @@ a:visited   {
 }
 body {
   background-color:#87CEEB;
-  background:url(https://farm1.staticflickr.com/645/22393822269_e070fbb007_k.jpg)
+  background:url(https://farm1.staticflickr.com/645/22393822269_e070fbb007_k.jpg);
+  background-repeat:no-repeat;
 }
 #otherp {
   clear: both;
@@ -24,7 +25,7 @@ body {
 }
 #ExperienceT {
   text-align:left;
-  width: 200px 
+  width: 200px; 
 }
 main {
   width: 100%;
