@@ -95,7 +95,7 @@ nav li {
 section {
   margin: 10px;
   border: 2px black dashed;
-  fill: white;
+  background-color:white;
   opacity: 0.5;
 }
 #photo {
