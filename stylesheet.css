@@ -100,6 +100,8 @@ section {
   margin-left:auto;
   margin-right:auto;
   z-index:-1;
+  height: 100%;
+  width: 100%
 }
 #splashvid {
   margin: auto;
