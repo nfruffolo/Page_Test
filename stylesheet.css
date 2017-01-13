@@ -95,6 +95,8 @@ nav li {
 section {
   margin: 10px;
   border: 2px black dashed;
+  fill: white;
+  opacity: 0.4;
 }
 #photo {
   position: fixed;
