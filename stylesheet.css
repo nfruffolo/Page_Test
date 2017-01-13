@@ -65,7 +65,7 @@ header {
 }
 nav {
   margin: auto;
-  width: 100;
+  width: 100%;
   padding-right: 25px;
 }
 nav li {
@@ -75,7 +75,7 @@ nav li {
   background-color: #028BCC;
   padding: 5px;
   margin: auto;
-  position: fixed;
+  position: relative;
 }
 #navbar {
   margin: auto;
