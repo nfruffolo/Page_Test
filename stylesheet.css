@@ -95,7 +95,7 @@ section {
   border: 2px black dashed;
 }
 #photo {
-  position: fixed;
+  position: relative;
   opacity: 0.4;
   margin-left:auto;
   margin-right:auto;
