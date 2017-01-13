@@ -96,15 +96,6 @@ section {
   border: 2px black dashed;
   background-color:rgba (255,255,255,0.5);
 }
-#photo {
-  position: fixed;
-  opacity: 0.4;
-  margin-left:auto;
-  margin-right:auto;
-  z-index:-5;
-  height: 100%;
-  width: 100%;
-}
 #splashvid {
   margin: auto;
   width: 50%;
