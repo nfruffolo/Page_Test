@@ -75,7 +75,7 @@ nav li {
   background-color: #028BCC;
   padding: 5px;
   margin: auto;
-  position: fixed;
+  position: relative;
 }
 #navbar {
   margin: auto;
