@@ -75,13 +75,11 @@ nav li {
   background-color: #028BCC;
   padding: 5px;
   margin: auto;
-  position: relative;
 }
 #navbar {
   margin: auto;
-  width: 500%;
+  width: 50%;
   z-index: 4;
-  position: relative;
 }
 #projects {
   padding: 0 20 0 20;
