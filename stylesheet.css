@@ -14,6 +14,7 @@ body {
   background-image:url(https://c1.staticflickr.com/1/261/32295742196_9ec676c9da_k.jpg);
   background-repeat:no-repeat;
   background-size: 1920px 1080px;
+  background-position: center, center;
 }
 #otherp {
   clear: both;
