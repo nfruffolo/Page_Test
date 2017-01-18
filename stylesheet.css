@@ -76,6 +76,8 @@ nav li {
   background-color: #028BCC;
   margin: auto;
   padding: 5px;
+  text-align:center;
+  float:left
 }
 #navbar {
   margin: auto;
