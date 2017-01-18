@@ -70,9 +70,11 @@ nav li a {
   display: block;
   text-align: center;
   padding: 14px 16px;
+  font-family: Impact, Charcoal, sans-serif;
 }
 nav li a:link {
   color:#FFFFFF;
+  font-family: Impact, Charcoal, sans-serif;
 }
 #navbar {
   margin: 10px;
