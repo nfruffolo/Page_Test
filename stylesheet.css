@@ -66,14 +66,13 @@ header {
 }
 nav {
   margin: auto;
-  width: 50%;
+  width: 100%;
   padding-right: 5px;
   float:left;
 }
 nav li {
   display: block;
-  border: 2px black solid;
-  border-radius: 15%;
+  border: 2px black solid;;
   background-color: #028BCC;
   margin: auto;
   padding: 5px;
