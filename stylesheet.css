@@ -83,6 +83,7 @@ nav li a {
 }
 nav li a:hover {
 background-color: #111;
+text-decoration: none;
 }
 #projects {
   padding: 0 20 0 20;
