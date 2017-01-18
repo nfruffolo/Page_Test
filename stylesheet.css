@@ -86,6 +86,9 @@ background-color: #111;
 text-decoration: none;
 color:#003B7B;
 }
+nav li a:visited {
+color:#FFFFFF;
+}
 #projects {
   padding: 0 20 0 20;
   display: inline;
