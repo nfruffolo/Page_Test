@@ -67,7 +67,6 @@ header {
 nav {
   margin: auto;
   width: 100%;
-  padding-right: 50px;
   float:left;
 }
 nav li {
@@ -83,7 +82,6 @@ nav li {
   margin: auto;
   width: 50%;
   z-index: 4;
-  float:left;
 }
 #projects {
   padding: 0 20 0 20;
