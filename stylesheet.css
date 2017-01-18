@@ -65,6 +65,7 @@ header {
 }
 nav li {
   float:left;
+  color:white;
 }
 nav li a {
   display: block;
