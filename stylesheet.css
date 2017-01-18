@@ -64,15 +64,13 @@ header {
   padding-left: 75px;
 }
 nav li {
-  float:left;
-  color:white;
+  float:left; 
 }
 nav li a {
   display: block;
-  color: white;
+  color:#FFFFFF;
   text-align: center;
   padding: 14px 16px;
-  text-decoration: none;
 }
 #navbar {
   margin: 10px;
