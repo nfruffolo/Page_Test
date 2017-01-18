@@ -70,7 +70,7 @@ nav {
   padding-right: 5px;
 }
 nav li {
-  display: inline;
+  display: block;
   border: 2px black solid;
   border-radius: 15%;
   background-color: #028BCC;
@@ -81,6 +81,7 @@ nav li {
   margin: auto;
   width: 50%;
   z-index: 4;
+  float:left;
 }
 #projects {
   padding: 0 20 0 20;
