@@ -68,9 +68,11 @@ nav li {
 }
 nav li a {
   display: block;
-  color:#FFFFFF;
   text-align: center;
   padding: 14px 16px;
+}
+nav li a:link {
+  color:#FFFFFF;
 }
 #navbar {
   margin: 10px;
