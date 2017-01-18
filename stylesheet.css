@@ -114,3 +114,6 @@ section {
 #splashpage {
   border: none;
 }
+#contactinfo {
+  list-style-type: none;
+}
