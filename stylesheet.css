@@ -113,7 +113,7 @@ section {
 #splashvid {
   margin: auto;
   width: 665px;
-  position: fixed;
+  position: relative;
   height: 380px;
   top: 0; right: 0; bottom: 0; left: 0;
 }
