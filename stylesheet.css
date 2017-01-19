@@ -40,7 +40,7 @@ header {
   text-align: center;
   border: 2px black dashed;
   margin: 10px;
-  font: "Arial Black";
+  font-family: "Arial Black", "Arial Bold", Gadget, sans-serif;
 }
 #den {
   margin: auto;
