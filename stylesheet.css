@@ -160,3 +160,6 @@ section {
   text-decoration: none;
   color: white;
 }
+#dowloadresume a:visited {
+  color: white;
+}
