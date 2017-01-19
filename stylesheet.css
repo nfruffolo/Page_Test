@@ -125,9 +125,9 @@ section {
 }
 #splashdiv {
   margin: auto;
-  width: 400px;
+  width: 100%;
   position: absolute;
-  height: 700px;
+  height: 100%;
 }
 #contactinfo {
   list-style-type: none;
@@ -136,9 +136,9 @@ section {
 #splashsection {
   border: none;
   margin: auto;
-  width: 400px;
+  width: 100%;
   position: absolute;
-  height: 700px;
+  height: 100%;
 }
 #downloadresume {
   float:right;
