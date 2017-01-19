@@ -126,9 +126,9 @@ section {
 }
 #splashpage {
   margin: auto;
-  width: 100%;
+  width: 400;
   position: absolute;
-  height: 100%;
+  height: 700;
   top: 0; right: 0; bottom: 0; left: 0;
 }
 #contactinfo {
@@ -138,9 +138,9 @@ section {
 #splashsection {
   border: none;
   margin: auto;
-  width: 100%;
+  width: 400;
   position: absolute;
-  height: 50%;
+  height: 700;
   top: 0; right: 0; bottom: 0; left: 0;
 }
 #downloadresume {
