@@ -146,4 +146,10 @@ section {
 #downloadresume {
   Float:right;
   clear:right;
+  margin-right: 50px;
+}
+#downloadresume a{
+  font-style:bold;
+  font-style:italic;
+  font-size: 30px;
 }
