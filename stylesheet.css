@@ -150,6 +150,10 @@ section {
 }
 #downloadresume a{
   font-style:bold;
+  font-size: 25px;
+}
+#downloadresume a:hover {
   font-style:italic;
-  font-size: 30px;
+  text-decoration: none;
+  color: black;
 }
