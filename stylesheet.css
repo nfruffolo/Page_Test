@@ -150,6 +150,7 @@ section {
   padding: 20px;
   border: 2px black solid;
   border-radius:50%;
+  background-color:#003B7B;
 }
 #downloadresume a{
   font-style:bold;
