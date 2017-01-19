@@ -106,9 +106,11 @@ section {
 }
 #splashvid {
   margin: auto;
-  width: 50%;
+  width: 380px;
   padding: 5px;
-  position: relative;
+  position: absolute;
+  height: 665px;
+  
 }
 #resumepage {
   background-color:#87CEEB;
