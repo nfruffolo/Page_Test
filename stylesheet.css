@@ -107,7 +107,7 @@ section {
 #splashvid {
   margin: auto;
   width: 665px;
-  position: absolute;
+  position: fixed;
   height: 380px;
   top: 0; right: 0; bottom: 0; left: 0;
 }
@@ -122,9 +122,9 @@ section {
 #splashpage {
   border: none;
   margin: auto;
-  width: 665px;
+  width: 100%;
   position: absolute;
-  height: 380px;
+  height: 100%;
   top: 0; right: 0; bottom: 0; left: 0;
 }
 #contactinfo {
