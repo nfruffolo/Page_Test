@@ -147,16 +147,15 @@ section {
   Float:right;
   clear:right;
   margin-right: 50px;
-  padding:5px;
+  padding:7px;
   border: 2px black solid;
-  border-radius:20%;
+  border-radius:50%;
 }
 #downloadresume a{
   font-style:bold;
   font-size: 25px;
 }
 #downloadresume a:hover {
-  font-style:italic;
   text-decoration: none;
-  color: black;
+  color: white;
 }
