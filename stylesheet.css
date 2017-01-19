@@ -141,7 +141,6 @@ section {
   width: 400px;
   position: absolute;
   height: 700px;
-  top: 0; right: 0; bottom: 0; left: 0;
 }
 #downloadresume {
   float:right;
