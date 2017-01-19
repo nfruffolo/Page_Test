@@ -121,6 +121,9 @@ section {
 }
 #splashpage {
   border: none;
+  margin: auto;
+  width 100%;
+  height: 50%;
 }
 #contactinfo {
   list-style-type: none;
