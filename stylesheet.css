@@ -17,7 +17,7 @@ body {
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
-  min-height: 8em;
+  min-height: 60em;
 }
 #otherp {
   clear: both;
@@ -112,7 +112,7 @@ section {
   width: 665px;
   position: absolute;
   height: 380px;
-  top: -100px; bottom:0; left:0; right:0;
+  top: 0; bottom:0; left:0; right:0;
   z-index: 4;
 }
 #resumepage {
