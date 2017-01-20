@@ -9,10 +9,8 @@ a:hover  {
 a:visited   {
   text-decoration: none;
 }
-html {
-  background-image:url(https://c1.staticflickr.com/1/261/32295742196_7b57738b38_o.jpg);
-  background-repeat:no-repeat;
-  background-position: center, center, fixed;
+body {
+  background-image:url(https://c1.staticflickr.com/1/261/32295742196_7b57738b38_o.jpg) no-repeat center center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
