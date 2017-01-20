@@ -65,6 +65,7 @@ header {
 }
 nav li {
   float:left; 
+  letter-spacing: 0.05 em;
 }
 nav li a {
   display: block;
@@ -74,7 +75,6 @@ nav li a {
 nav li a:link {
   color:#FFFFFF;
   font-family: Impact, Charcoal, sans-serif;
-  letter-spacing:0.2 em;
 }
 #navbar {
   margin: 10px;
