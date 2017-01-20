@@ -115,6 +115,7 @@ section {
   position: absolute;
   height: 380px;
   top:0; bottom:0; left:0; right:0;
+  z-index: 4;
 }
 #resumepage {
   background-color:#87CEEB;
