@@ -108,7 +108,7 @@ section {
   width: 665px;
   position: absolute;
   height: 380px;
-  top:150; bottom:0; left:0; right:0;
+  top:0; bottom:0; left:0; right:0;
 }
 #resumepage {
   background-color:#999190;
@@ -133,6 +133,7 @@ section {
   margin: 10px;
   position: relative;
   height:100%;
+  padding: 100px;
 }
 #downloadresume {
   float:right;
