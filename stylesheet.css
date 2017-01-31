@@ -129,8 +129,6 @@ section {
   font-size: 50px;
 }
 #splashsection {
-  display: -webkit-flex;
-  display: flex;
   border: none;
   margin: 10px;
   position: relative;
