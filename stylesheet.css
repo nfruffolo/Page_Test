@@ -175,3 +175,7 @@ section {
 #downloadreferences a:visited {
   color: white;
 }
+#splashbio {
+  margin:auto;
+  text-align:center;
+}
