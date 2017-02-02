@@ -115,6 +115,9 @@ section {
   background-color:#999190;
   background-image: none;
 }
+#videoexamples {
+  border:none;
+}
 #splashdiv {
   margin: auto;
   position: relative;
