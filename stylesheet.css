@@ -42,8 +42,6 @@ nav li a {
   display: block;
   text-align: center;
   padding: 14px 16px;
-  color:#FFFFFF;
-  font-family: "Arial Black", "Arial Bold", Gadget, sans-serif;
 }
 #otherp {
   clear: both;
@@ -168,18 +166,22 @@ a:link   {
   text-decoration: none;
   color: black;
 }
+a:visited   {
+  text-decoration: none;
+}
 a:hover  {
   text-decoration: underline;
   color: purple;
 }
-a:visited   {
-  text-decoration: none;
+nav li a:link {
+  color:#FFFFFF;
+  font-family: "Arial Black", "Arial Bold", Gadget, sans-serif;
+}
+nav li a:visited {
+color:#FFFFFF;
 }
 nav li a:hover {
   background-color: #111;
   text-decoration: none;
   color:#003B7B;
-}
-nav li a:visited {
-color:#FFFFFF;
 }
