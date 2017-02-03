@@ -1,13 +1,10 @@
-a:link   {
-  text-decoration: none;
-  color: black;
+.left {
+  float: left;
+  padding-left: 75px;
 }
-a:hover  {
-  text-decoration: underline;
-  color: purple;
-}
-a:visited   {
-  text-decoration: none;
+.right {
+  float: right;
+  padding-right: 75px;
 }
 body {
   background-image:url(https://c1.staticflickr.com/1/261/32295742196_9ec676c9da_k.jpg);
@@ -15,6 +12,38 @@ body {
   background-position: center, center;
   background-attachment: fixed;
   background-size: cover;
+}
+header {
+  color: black;
+  text-align: center;
+  border: 2px black dashed;
+  margin: 10px;
+  font-family: "Arial Black", "Arial Bold", Gadget, sans-serif;
+}
+main {
+  margin-left: auto;
+  margin-right: auto;
+}
+section {
+  margin: 10px;
+  border: 2px black dashed;
+}
+#navbar {
+  margin: 10px;
+  padding:0;
+  background-color: #333;
+  overflow: hidden;
+  list-style-type: none;
+}
+nav li {
+  float:left; 
+}
+nav li a {
+  display: block;
+  text-align: center;
+  padding: 14px 16px;
+  color:#FFFFFF;
+  font-family: "Arial Black", "Arial Bold", Gadget, sans-serif;
 }
 #otherp {
   clear: both;
@@ -27,17 +56,6 @@ body {
 #ExperienceT {
   text-align:left;
   width: 200px; 
-}
-main {
-  margin-left: auto;
-  margin-right: auto;
-}
-header {
-  color: black;
-  text-align: center;
-  border: 2px black dashed;
-  margin: 10px;
-  font-family: "Arial Black", "Arial Bold", Gadget, sans-serif;
 }
 #den {
   margin: auto;
@@ -57,56 +75,6 @@ header {
   padding: 5px;
   width: 375px;
 }
-.left {
-  float: left;
-  padding-left: 75px;
-}
-nav li {
-  float:left; 
-}
-nav li a {
-  display: block;
-  text-align: center;
-  padding: 14px 16px;
-}
-nav li a:link {
-  color:#FFFFFF;
-  font-family: "Arial Black", "Arial Bold", Gadget, sans-serif;
-}
-#navbar {
-  margin: 10px;
-  padding:0;
-  background-color: #333;
-  overflow: hidden;
-  list-style-type: none;
-}
-nav li a:hover {
-background-color: #111;
-text-decoration: none;
-color:#003B7B;
-}
-nav li a:visited {
-color:#FFFFFF;
-}
-#projects {
-  padding: 0 20 0 20;
-  display: inline;
-}
-.right {
-  float: right;
-  padding-right: 75px;
-}
-section {
-  margin: 10px;
-  border: 2px black dashed;
-}
-#splashvid {
-  margin: auto;
-  width: 665px;
-  position: absolute;
-  height: 380px;
-  top:0; bottom:0; left:0; right:0;
-}
 #resumepage {
   background-color:#999190;
   background-image: none;
@@ -115,14 +83,16 @@ section {
   background-color:#999190;
   background-image: none;
 }
+#projects {
+  padding: 0 20 0 20;
+  display: inline;
+}
 #videoexamples {
   border:none;
 }
-#splashdiv {
-  margin: auto;
-  position: relative;
-  height: 400px;
-  padding: 50px;
+#contactpage {
+  background-image: none;
+  background-color: #999190;
 }
 #contactinfo {
   list-style-type: none;
@@ -134,9 +104,25 @@ section {
   position: relative;
   height:100%;
 }
-#contactpage {
-  background-image: none;
-  background-color: #999190;
+#splashdiv {
+  margin: auto;
+  position: relative;
+  height: 400px;
+  padding: 50px;
+}
+#splashvid {
+  margin: auto;
+  width: 665px;
+  position: absolute;
+  height: 380px;
+  top:0; bottom:0; left:0; right:0;
+}
+#splashbio {
+  margin:auto;
+  text-align:center;
+  background-color: rgba(255,255,255,0.8);
+  border: 2px black dashed;
+  font-family: "Arial Black", "Arial Bold", Gadget, sans-serif;
 }
 #downloadresume {
   float:right;
@@ -151,13 +137,6 @@ section {
   font-weight: bold;
   font-size: 25px;
 }
-#downloadresume a:hover {
-  text-decoration: none;
-  color: white;
-}
-#downloadresume a:visited {
-  color: white;
-}
 #downloadreferences {
   float:right;
   clear:right;
@@ -171,6 +150,13 @@ section {
   font-weight: bold;
   font-size: 25px;
 }
+#downloadresume a:hover {
+  text-decoration: none;
+  color: white;
+}
+#downloadresume a:visited {
+  color: white;
+}
 #downloadreferences a:hover {
   text-decoration: none;
   color: white;
@@ -178,10 +164,22 @@ section {
 #downloadreferences a:visited {
   color: white;
 }
-#splashbio {
-  margin:auto;
-  text-align:center;
-  background-color: rgba(255,255,255,0.8);
-  border: 2px black dashed;
-  font-family: "Arial Black", "Arial Bold", Gadget, sans-serif;
+a:link   {
+  text-decoration: none;
+  color: black;
+}
+a:hover  {
+  text-decoration: underline;
+  color: purple;
+}
+a:visited   {
+  text-decoration: none;
+}
+nav li a:hover {
+background-color: #111;
+text-decoration: none;
+color:#003B7B;
+}
+nav li a:visited {
+color:#FFFFFF;
 }
