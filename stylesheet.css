@@ -134,6 +134,10 @@ section {
   position: relative;
   height:100%;
 }
+#contactpage {
+  background-image: none;
+  background-color: #999190;
+}
 #downloadresume {
   float:right;
   clear:right;
