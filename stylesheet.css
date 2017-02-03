@@ -176,9 +176,9 @@ a:visited   {
   text-decoration: none;
 }
 nav li a:hover {
-background-color: #111;
-text-decoration: none;
-color:#003B7B;
+  background-color: #111;
+  text-decoration: none;
+  color:#003B7B;
 }
 nav li a:visited {
 color:#FFFFFF;
