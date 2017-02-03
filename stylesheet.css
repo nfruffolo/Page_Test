@@ -121,6 +121,8 @@ nav li a {
   background-color: rgba(255,255,255,0.8);
   border: 2px black dashed;
   font-family: "Arial Black", "Arial Bold", Gadget, sans-serif;
+  padding-left: 10px;
+  padding-right: 10px;
 }
 #downloadresume {
   float:right;
@@ -185,4 +187,5 @@ nav li a:hover {
   background-color: #111;
   text-decoration: none;
   color:#003B7B;
+  font-family: "Arial Black", "Arial Bold", Gadget, sans-serif;
 }
