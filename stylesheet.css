@@ -148,10 +148,11 @@ nav li a {
     width: 250px;
     height: 25px;
     background-color: #003B7B;
+    text-align: center;
 }
 #downloadsamples a {
   font-weight: bold;
-  font-size: 19.6px;
+  font-size: 21px;
 }
 #downloadreferences {
     float: right;
@@ -162,6 +163,7 @@ nav li a {
     width: 250px;
     height: 25px;
     background-color: #003B7B;
+    text-align: center;
 }
 #downloadreferences a {
   font-weight: bold;
