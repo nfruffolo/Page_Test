@@ -146,7 +146,7 @@ nav li a {
   border-radius:50%;
   background-color:#003B7B;
 }
-#downloadsamples a{
+#downloadsamples a {
   font-weight: bold;
   font-size: 17px;
 }
@@ -159,15 +159,18 @@ nav li a {
   border-radius:50%;
   background-color:#003B7B;
 }
-#downloadreferences a{
+#downloadreferences a {
   font-weight: bold;
   font-size: 25px;
+}
+#downloadresume a:visited {
+  color: white;
 }
 #downloadresume a:hover {
   text-decoration: none;
   color: white;
 }
-#downloadresume a:visited {
+#downloadreferences a:visited {
   color: white;
 }
 #downloadsamples a:hover {
@@ -176,11 +179,9 @@ nav li a {
 }
 #downloadsamples a:visited {
   color: white;
+}
 #downloadreferences a:hover {
   text-decoration: none;
-  color: white;
-}
-#downloadreferences a:visited {
   color: white;
 }
 a:link   {
