@@ -125,42 +125,42 @@ nav li a {
   padding-right: 10px;
 }
 #downloadresume {
-  float:right;
-  clear:right;
-  margin-right: 50px;
-  padding: 20px;
-  border: 2px black solid;
-  width: 275px;
-  height: 72px;
-  background-color:#003B7B;
+    float: right;
+    clear: right;
+    margin: auto;
+    padding: 20px;
+    border: 2px black solid;
+    width: 250px;
+    height: 25px;
+    background-color: #003B7B;
 }
 #downloadresume a{
   font-weight: bold;
   font-size: 25px;
 }
 #downloadsamples {
-  float:right;
-  clear:right;
-  margin-right: 57px;
-  padding: 20px;
-  border: 2px black solid;
-  background-color:#003B7B;
-  width: 275px;
-  height: 72px;
+    float: right;
+    clear: right;
+    margin: auto;
+    padding: 20px;
+    border: 2px black solid;
+    width: 250px;
+    height: 25px;
+    background-color: #003B7B;
 }
 #downloadsamples a {
   font-weight: bold;
   font-size: 19.6px;
 }
 #downloadreferences {
-  float:right;
-  clear:right;
-  margin-right: 57px;
-  padding: 20px;
-  border: 2px black solid;
-  width: 275px;
-  height: 72px;
-  background-color:#003B7B;
+    float: right;
+    clear: right;
+    margin: auto;
+    padding: 20px;
+    border: 2px black solid;
+    width: 250px;
+    height: 25px;
+    background-color: #003B7B;
 }
 #downloadreferences a {
   font-weight: bold;
