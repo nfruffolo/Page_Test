@@ -137,6 +137,19 @@ nav li a {
   font-weight: bold;
   font-size: 25px;
 }
+#downloadsamples {
+  float:right;
+  clear:right;
+  margin-right: 57px;
+  padding: 20px;
+  border: 2px black solid;
+  border-radius:50%;
+  background-color:#003B7B;
+}
+#downloadsamples a{
+  font-weight: bold;
+  font-size: 17px;
+}
 #downloadreferences {
   float:right;
   clear:right;
@@ -157,6 +170,12 @@ nav li a {
 #downloadresume a:visited {
   color: white;
 }
+#downloadsamples a:hover {
+  text-decoration: none;
+  color: white;
+}
+#downloadsamples a:visited {
+  color: white;
 #downloadreferences a:hover {
   text-decoration: none;
   color: white;
