@@ -133,6 +133,7 @@ nav li a {
     width: 250px;
     height: 25px;
     background-color: #003B7B;
+    text-align: center;
 }
 #downloadresume a{
   font-weight: bold;
