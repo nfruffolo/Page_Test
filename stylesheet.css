@@ -179,14 +179,14 @@ nav li a {
 #downloadreferences a:visited {
   color: white;
 }
-#downloadsamples a:hover {
+#downloadreferences a:hover {
   text-decoration: none;
   color: white;
 }
 #downloadsamples a:visited {
   color: white;
 }
-#downloadreferences a:hover {
+#downloadsamples a:hover {
   text-decoration: none;
   color: white;
 }
