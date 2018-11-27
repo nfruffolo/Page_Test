@@ -126,6 +126,8 @@ nav li a {
   padding-right: 10px;
 }
 #downloadresume {
+    float: right;
+    clear: right;
     margin: auto;
     padding: 20px;
     border: 2px black solid;
@@ -139,6 +141,8 @@ nav li a {
   font-size: 25px;
 }
 #downloadsamples {
+    float: right;
+    clear: right;
     margin: auto;
     padding: 20px;
     border: 2px black solid;
