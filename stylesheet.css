@@ -144,7 +144,7 @@ nav li a {
 }
 #downloadresume a{
   font-weight: bold;
-  font-size: 25px;
+  font-size: 20px;
 }
 #downloadsamples {
     float: right;
@@ -159,7 +159,7 @@ nav li a {
 }
 #downloadsamples a {
   font-weight: bold;
-  font-size: 21px;
+  font-size: 15px;
 }
 #downloadreferences {
     float: right;
@@ -174,7 +174,7 @@ nav li a {
 }
 #downloadreferences a {
   font-weight: bold;
-  font-size: 25px;
+  font-size: 20px;
 }
 #downloadresume a:hover {
   text-decoration: none;
