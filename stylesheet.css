@@ -125,6 +125,14 @@ nav li a {
   padding-left: 10px;
   padding-right: 10px;
 }
+#downloadboxes {
+    float: right;
+    clear: right;
+    margin: auto;
+    padding: 20px;
+    width: 2em;
+    height: 2em;
+}
 #downloadresume {
     float: right;
     clear: right;
