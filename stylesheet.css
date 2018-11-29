@@ -88,6 +88,10 @@ nav li a {
 #videoexamples {
   border:none;
 }
+#recentstories {
+  border:none;
+  text-align:center;
+}
 #contactpage {
   background-image: none;
   background-color: #999190;
