@@ -149,22 +149,8 @@ nav li a {
 #downloadresume a{
   font-weight: bold;
   font-size: 20px;
-}
-#downloadsamples {
-    float: right;
-    clear: right;
-    margin: auto;
-    padding: 20px;
-    border: 2px black solid;
-    width: 250px;
-    height: 25px;
-    background-color: #003B7B;
-    text-align: center;
-}
-#downloadsamples a {
-  font-weight: bold;
-  font-size: 17px;
-}
+  color: white;
+  
 #downloadreferences {
     float: right;
     clear: right;
@@ -179,6 +165,7 @@ nav li a {
 #downloadreferences a {
   font-weight: bold;
   font-size: 20px;
+  color: white;
 }
 #downloadresume a:hover {
   text-decoration: none;
