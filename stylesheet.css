@@ -6,6 +6,20 @@
   float: right;
   padding-right: 75px;
 }
+.twitch {
+  border: 4px #ee3c2d solid;
+  padding: 5px;
+	width: 40%;
+	margin:auto;
+	text-align: center;
+}
+.videoheader {
+  border: 2px black solid;
+  padding: 5px;
+	width: 20%;
+	margin:auto;
+	text-align: center;
+}
 body {
   background-image:url(https://live.staticflickr.com/65535/49129905111_b40f7e9689_k.jpg);
   background-repeat: no-repeat;
@@ -91,6 +105,7 @@ nav li a {
 #recentstories {
   border:none;
   text-align:center;
+	clear:both;
 }
 #contactpage {
   background-image: none;
@@ -128,6 +143,14 @@ nav li a {
   font-family: "Arial Black", "Arial Bold", Gadget, sans-serif;
   padding-left: 10px;
   padding-right: 10px;
+}
+#twitchcontainer {
+  top:0; bottom:0; left:0; right:0;
+	border:none;
+	text-align:center;
+}
+#twitch {
+  display:inline-block;
 }
 #downloadboxes {
     float: right;
