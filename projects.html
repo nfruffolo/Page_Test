@@ -20,13 +20,31 @@
 <li><a href="contact.html">Contact</a></li>
 </ul>
 </nav>
-<section id="recentstories">
-<hr>
-<p> ---> <a href="http://44news.wevv.com/author/nruffolo/"target="_blank"> <strong> RECENT STORIES </strong></a> <---
-</p>
+	</main>
+	<section id="twitchcontainer">
+		<hr>
+		<div id="twitch">
+			<p>
+			<h1 class="twitch">Twitch Channel&#58; <a href="https://www.twitch.tv/rufflyaverage"target="_blank"> <strong><u>Ruffly Average</u></strong></a></h1></p>
+	<div id="twitch-embed"></div>
+    <script src="https://embed.twitch.tv/embed/v1.js"></script>
+    <script type="text/javascript">
+		document.getElementById("twitch-embed").style.border = "thick solid #4fc1b0";
+      new Twitch.Embed("twitch-embed", {
+        width: 960,
+        height: 540,
+		  theme: "dark",
+		  layout: "video-with-chat",
+        channel: "rufflyaverage"
+      });
+    </script>
+			</div>
+		</section>
 <section id="videoexamples">
 <hr>
-<div>
+			<p><h1 class="videoheader"><strong>Published Videos </strong></h1>
+</p>
+	<div>
 <p class="left">
 	<iframe width="560" height="315" src="https://www.youtube.com/embed/Mn-dpoyKkf4?list=PL4JYWNTtoAgJld6ZYFBm0QIT3dIDscNmg" frameborder="0" allowfullscreen></iframe>
 </p>
@@ -59,6 +77,11 @@
 </p>
 </div>
 </section> 
-</main>
+<section id="recentstories">
+	<hr>
+<p><h1>---&gt; <a href="http://44news.wevv.com/author/nruffolo/"target="_blank"> <strong> <u>WEVV News Articles </strong></u></a> &lt;---</h1>
+</p>
+	<hr>
+	</section>
 </body>
 </html>
