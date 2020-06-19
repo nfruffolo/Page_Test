@@ -8,9 +8,8 @@
 }
 .twitch {
   border: 4px #4fc1b0 solid;
-  padding: 5px;
-	margin:auto;
-	text-align: center;
+  text-align:center;
+	clear:both;
 }
 .videoheader {
   border: 2px black solid;
