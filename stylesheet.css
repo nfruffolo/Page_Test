@@ -9,7 +9,6 @@
 .twitch {
   border: 4px #4fc1b0 solid;
   text-align:center;
-	clear:both;
 }
 .videoheader {
   border: 2px black solid;
@@ -143,12 +142,8 @@ nav li a {
   padding-right: 10px;
 }
 #twitchcontainer {
-  top:0; bottom:0; left:0; right:0;
 	border:none;
 	text-align:center;
-}
-#twitch {
-  display:inline-block;
 }
 #downloadboxes {
     float: right;
